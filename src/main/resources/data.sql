@@ -1,0 +1,1 @@
+INSERT INTO `users` (`id`, `email`, `nickName`, `password`, `registration_date`) VALUES (NULL, 'admin@test.com', 'admin', '$2a$10$SfJvrW20nzJvbhfxMKvnzOkbH00eS7q1/JPv8p1wee/ZjDOVG0gr6', CURRENT_TIMESTAMP);
